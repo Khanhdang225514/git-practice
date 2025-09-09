@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Pham Huynh Khanh Dang, MSSV 225514.
+Đây là README từ nhánh conflict-demo.

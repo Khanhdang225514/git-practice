@@ -1,9 +1,2 @@
-
-
-[200~log/ 
-*.log 
-EOF~
-[200~log/ 
-*.log 
 log/ 
 *.log 

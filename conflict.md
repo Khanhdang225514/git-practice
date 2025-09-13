@@ -1,1 +1,1 @@
-Nội dung từ main
+Đã giải quyết conflict
